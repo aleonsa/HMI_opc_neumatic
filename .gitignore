@@ -1,0 +1,61 @@
+# Ignorar archivos y directorios generados por RAD Studio / Delphi
+__history/
+__recovery/
+Project1.res
+Project1.dproj.local
+Project1.identcache
+
+# Ignorar archivos de compilación y ejecución
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.dcpil
+*.map
+*.tvsconfig
+*.local
+
+# Ignorar archivos temporales y de caché
+*.bak
+*.~*
+__MACOSX/
+*.DS_Store
+*.o
+*.obj
+*.dcu
+*.groupproj.cache
+*.rsm
+*.dsk
+*.ini
+*.ipch
+*.pch
+*.cfg
+*.cfg.BAK
+*.dof
+*.dsk
+*.~*
+*.bin
+*.ncb
+*.opt
+*.suo
+*.cache
+*.dll
+*.dll.res
+*.local
+*.pdb
+*.debug
+*.dpk
+*.dproj.local
+*.identcache
+*.cfg
+
+# Ignorar directorio de compilación
+__releases/
+__history/
+
+# Ignorar archivos de usuario específicos de Windows
+Thumbs.db
+desktop.ini
+
+# Ignorar archivos de respaldo de editores de texto
+*~
